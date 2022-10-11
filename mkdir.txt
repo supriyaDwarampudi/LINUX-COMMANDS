@@ -1,0 +1,7 @@
+command:mkdir
+Option / Syntax	                     Description
+mkdir directory_name	             Creates a directory in the current location
+mkdir {dir1,dir2,dir3,dir4}	        Creates multiple directories in the current location. Do not use spaces inside {}
+mkdir –p directory/path/newdir	    Creates a directory structure with the missing parent directories (if any)
+mkdir –m777 directory_name	        Creates a directory and sets full read, write, execute permissions for all users
+mkdir –v directory_name(s)	        Creates a directory in the current location            
