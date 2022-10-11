@@ -1,0 +1,7 @@
+command: sudo
+Options:syntax
+-h – help; displays syntax and command options
+-V – version; displays the current version of the sudo application
+-v – validate; refresh the time limit on sudo without running a command
+-l – list; lists the user’s privileges, or checks a specific command
+-k – kill; end the current sudo privileges
