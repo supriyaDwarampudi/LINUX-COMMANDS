@@ -1,5 +1,5 @@
 command :chmod
-options: suntax
+options: syntax
 u - The file owner.
 g - The users who are members of the group.
 o - All other users.

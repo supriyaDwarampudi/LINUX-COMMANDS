@@ -1,0 +1,8 @@
+command:cat
+options:syntax
+cat > [fileName]	To create a file.
+cat [oldfile] > [newfile]	To copy content from older to new file.
+cat [file1 file2 and so on] > [new file name]	To concatenate contents of multiple files into one.
+cat -n/cat -b [fileName]	To display line numbers.
+cat -e [fileName]	To display $ character at the end of each line.
+cat [fileName] <<EOF	Used as page end marker.
