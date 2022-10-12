@@ -1,0 +1,6 @@
+command :chmod
+options: suntax
+u - The file owner.
+g - The users who are members of the group.
+o - All other users.
+a - All users, identical to ugo.

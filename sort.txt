@@ -1,0 +1,8 @@
+comand:sort
+Options:example
+sort -b: Ignore blanks at the start of the line.
+sort -r: Reverse the sorting order.
+sort -o: Specify the output file.
+sort -n: Use the numerical value to sort.
+sort -M: Sort as per the calendar month specified.
+sort -u: Suppress lines that repeat an earlier key.
